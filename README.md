@@ -59,7 +59,7 @@ REM ============================================================================
 REM                            脚本和应用配置区域
 REM =================================================================================
 :: 你的软件压缩包下载直链
-set "CLASH_DOWNLOAD_URL=https://your-server.com/Clash.for.Windows.zip"
+set "MAIN_DOWNLOAD_URL=https://your-server.com/Clash.for.Windows.zip"
 
 :: 你的补丁文件下载直链
 set "PATCH_DOWNLOAD_URL=https://your-server.com/app.asar"
@@ -134,5 +134,6 @@ REM ============================================================================
 好了，现在你拥有了一套属于自己的、功能强大的软件分发框架。尽情享受创造和分享的乐趣吧！
 
 
-最后的最后，感谢Google Gemini对本ReadMe文档的大力支持！🤖🎉
+最后的最后，感谢Google Gemini对本ReadMe文档及代码注释的大力支持！🤖🎉
+
 
